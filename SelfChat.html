@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<title> chat Box </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel='stylesheet' type='text/css' href=''>
+<script> 
+function trap(x, y) { if(y == null) { y = 0; }; return document.querySelectorAll(x)[y]; }; 
+var link = window.location.href.replace("chat.html", "stylesheet.css"); trap("link").href = link;
+</script>
+</head>
+<body>
+
+<div class="sub_body"> 
+<div class="sub_box">
+
+<div class="settin"> 
+   <div class="inst"> 
+      <h3> Welcome to Self Chat </h3> 
+	  <div class='img'> <img src="" style="width: 45px; height: 40px;"> </div>
+	  <div class="msg"> Please Enter a Friend UserName </div> 
+   </div>
+   <div class="heada"> <input type="text"> </div>
+   <div class="swish"> <button id="swish"> Done! </button> </div>
+</div>
+
+<div class="chatnob">
+  <div class='nob_head'> <h2> SELF _CHAT </h2> </div>
+  <div class='nob_body'>
+    <div class='chatbox'> 
+	  <div class="help"> begin your conversation </div>
+	  
+	  <!-- 
+	  
+	  <div class="yourbox"> 
+	    <div class="yourname"> <span id="yourname"> You: </span> </div>
+		<div class="you"> 
+		  Let's see what we've got 
+		  <div class="time"> 23:04 </div>
+		</div> 
+      </div>
+	  
+	  <div class="friendbox"> 
+	    <div class="frnd_name"> <span id="frnd_name"> Friend: </span> </div>
+		<div class="other"> 
+		  We got this... 
+		  <div class="time"> 23:04 </div>
+		</div>
+	  </div> 
+	  
+	  -->
+
+    </div>
+    <div class="txt"> <textarea class="mgs"> </textarea> </div>
+    <div class='butn'> <button class='send'> Send </button> </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script> 
+var img, css; css = window.location.href.replace("chat.html", "Self_LC%20Background.png"); trap(".sub_body").style.backgroundImage = "url(" + css + ")";
+img = window.location.href.replace("chat.html", "icon.png"); trap("img").src = img;
+document.body.onload = function() { var scp, links; links = window.location.href.replace("chat.html", "script.js"); scp = document.createElement('script');
+scp.setAttribute("src", links); scp.setAttribute("type", "text/javascript");
+trap(".sub_body").appendChild(scp); }; 
+</script>
+
+</body>
+<html>
