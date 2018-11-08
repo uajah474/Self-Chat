@@ -59,9 +59,4 @@ If you rename any file or change the location of any file that is in the extract
 
 It would not be less fun if it was made to work with ajax and php for multiple user interaction, but the ideal concept was to simulate a functional chat model that is 100% offline.
 
-**COPYRIGHT**
-
-The scripts may be shared and used only for fun or learning purpose. Changing the Creator's identity or copyright notice of this system is strictly prohibited.
-
-Modification of the extracted script may be allowed to programmers who have develop workaholic ideas from this model but they must not retain engineering of the SelfChat model or script.
 
