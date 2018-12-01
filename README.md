@@ -12,20 +12,15 @@ Unlike a real web communication system, it does not use Ajax or php, nor does it
 
 The application was created using HTML, CSS & JavaScript **Only!**. Thus, messages are sent from a single html page and received in the chat box of that same page.
 
-**INSTALLATION**
+**RUN THE PROGRAM** 
 
-To see how it works: 
 * Download the SelfChat.zip file 
 * Extract the SelfChat folder into any location in your local drive.
 * In the extracted folder, open SelfChat.html in your browser.
 
 **COMPACTIBILITY**
 
-This is only a web based application created using HTML, CSS & JavaScript. It can be opened and run on any browser. 
-
-Some very old (non updated) browser that uses deprecated codes may no support its functionality.
-
-It also works on mobile.
+This is only a web based application created using HTML, CSS & JavaScript. It can run on any mobile or desktop browser. 
 
 **HOW IT WORKS**
 
@@ -34,17 +29,6 @@ It also works on mobile.
 * Message Displays in the chat box from _you_ or _friend_
 * Each message switch turns between you and friend.
 * to retype, switch back turn by clicking _switch_ or sending a message on an empty input field.
-
-**FEATURES**
-
-* It is easy to use and understand
-* It's fun
-* It lets you create imaginary conversation between you and a friend.
-* works on mobile browser
-
-**Warning**
-
-If you rename any file or change the location of any file that is in the extracted SelfChat folder, it will no longer make effects in the selfchat.html page
 
 **Demerit**
 
