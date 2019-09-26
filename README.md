@@ -6,11 +6,11 @@ Created By: Uchenna Ajah
 
 **DESCRIPTION**
 
-SELF CHAT Is a one to one chat box that sends and receives chat messages in a simulative manner to live chat system. 
+SELF CHAT as the name implies is a self chat web app that sends and receives messages from one's self. 
 
 Unlike a real web communication system, it does not use Ajax or php, nor does it store messages in any database or new page.
 
-The application was created using HTML, CSS & JavaScript **Only!**. Thus, messages are sent from a single html page and received in the chat box of that same page.
+The application is made using HTML, CSS & JavaScript. Thus, messages are sent from a single html page and received in the chat box of that same page.
 
 **RUN THE PROGRAM** 
 
