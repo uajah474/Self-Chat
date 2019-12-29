@@ -12,7 +12,7 @@ The application is made using HTML, CSS & JavaScript.
 
 * Download the SelfChat.zip file 
 * Extract the SelfChat folder into any location in your local drive.
-* In the extracted folder, open SelfChat.html in your browser.
+* In the extracted folder, open Chat.html in your browser.
 
 **HOW IT WORKS**
 
